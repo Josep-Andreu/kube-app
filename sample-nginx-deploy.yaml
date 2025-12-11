@@ -4,6 +4,7 @@ metadata:
   creationTimestamp: null
   labels:
     app: sampleginx
+    day: friday
   name: sampleginx
   annotations:
     state: testing
