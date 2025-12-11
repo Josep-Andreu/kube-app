@@ -23,7 +23,7 @@ spec:
       creationTimestamp: null
       labels:
         app: sampleginx
-        myautomation: argocd
+        mynewautomation: argocd
     spec:
       containers:
       - image: nginx
