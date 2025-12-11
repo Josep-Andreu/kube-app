@@ -5,6 +5,7 @@ metadata:
   labels:
     app: sampleginx
   name: sampleginx
+  namespace: auto
 spec:
   ports:
   - port: 80
