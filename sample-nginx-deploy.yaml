@@ -22,7 +22,7 @@ spec:
       creationTimestamp: null
       labels:
         app: sampleginx
-        argocd: true
+        argocd: "yes"
     spec:
       containers:
       - image: nginx
