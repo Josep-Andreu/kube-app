@@ -24,6 +24,7 @@ spec:
       labels:
         app: sampleginx
         argocd: "yes"
+        test: automation
     spec:
       containers:
       - image: nginx
