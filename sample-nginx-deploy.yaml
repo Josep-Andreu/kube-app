@@ -7,7 +7,7 @@ metadata:
   name: sampleginx
   annotations:
     state: testing
-    today: thursday
+    today: friday
     almost: done
     weather: rainy
 spec:
