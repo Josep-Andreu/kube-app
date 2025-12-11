@@ -23,6 +23,7 @@ spec:
       creationTimestamp: null
       labels:
         app: sampleginx
+        anotherautomation: changed
     spec:
       containers:
       - image: nginx
