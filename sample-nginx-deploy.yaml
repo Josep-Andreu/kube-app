@@ -24,7 +24,7 @@ spec:
       labels:
         app: sampleginx
         mynewautomation: argocd
-        newlabel: class
+        newlabel: classfriday
     spec:
       containers:
       - image: nginx
